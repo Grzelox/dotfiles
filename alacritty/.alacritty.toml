@@ -9,8 +9,7 @@ decorations_theme_variant = "Dark"
 
 [font]
 
-normal.family = "Fira Code"
-bold.family = "FiraCode-Bold"
+normal.family = "FiraCode Nerd Font"
 size = 15.0
 
 
