@@ -1,0 +1,4 @@
+# Do not track lockfiles or node_modules -- these are generated
+bun.lock
+node_modules/
+package.json

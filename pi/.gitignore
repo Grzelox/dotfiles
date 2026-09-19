@@ -1,0 +1,4 @@
+# Sensitive and ephemeral pi files — never commit these
+auth.json
+sessions/
+*.session
