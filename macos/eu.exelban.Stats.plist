@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery_barChart_position</key>
+	<integer>3</integer>
+	<key>Battery_batteryDetails_position</key>
+	<integer>4</integer>
+	<key>Battery_battery_position</key>
+	<integer>0</integer>
+	<key>Battery_label_position</key>
+	<integer>1</integer>
+	<key>Battery_mini_position</key>
+	<integer>2</integer>
+	<key>Battery_position</key>
+	<integer>6</integer>
+	<key>Battery_widget</key>
+	<string></string>
+	<key>Bluetooth_label_position</key>
+	<integer>1</integer>
+	<key>Bluetooth_position</key>
+	<integer>7</integer>
+	<key>Bluetooth_stack_position</key>
+	<integer>0</integer>
+	<key>Bluetooth_widget</key>
+	<string></string>
+	<key>CPU_barChart_position</key>
+	<integer>2</integer>
+	<key>CPU_label_position</key>
+	<integer>4</integer>
+	<key>CPU_lineChart_position</key>
+	<integer>5</integer>
+	<key>CPU_mini_color</key>
+	<string>monochrome</string>
+	<key>CPU_mini_label</key>
+	<true/>
+	<key>CPU_mini_position</key>
+	<integer>0</integer>
+	<key>CPU_pieChart_position</key>
+	<integer>1</integer>
+	<key>CPU_position</key>
+	<integer>0</integer>
+	<key>CPU_tachometer_position</key>
+	<integer>3</integer>
+	<key>CPU_updateInterval</key>
+	<integer>3</integer>
+	<key>CPU_updateTopInterval</key>
+	<integer>3</integer>
+	<key>CPU_widget</key>
+	<string>mini</string>
+	<key>Clock_label_position</key>
+	<integer>1</integer>
+	<key>Clock_position</key>
+	<integer>8</integer>
+	<key>Clock_stack_position</key>
+	<integer>0</integer>
+	<key>Clock_widget</key>
+	<string></string>
+	<key>CombinedModules</key>
+	<true/>
+	<key>CombinedModules_popup</key>
+	<true/>
+	<key>Disk_position</key>
+	<integer>3</integer>
+	<key>GPU_position</key>
+	<integer>1</integer>
+	<key>GPU_state</key>
+	<true/>
+	<key>GPU_updateInterval</key>
+	<integer>3</integer>
+	<key>LaunchAtLoginNext</key>
+	<true/>
+	<key>NSStatusItem Preferred Position CombinedModules</key>
+	<real>596.0</real>
+	<key>NSStatusItem Restore Position CPU_mini</key>
+	<integer>506</integer>
+	<key>NSStatusItem Restore Position Disk_mini</key>
+	<integer>318</integer>
+	<key>NSStatusItem Restore Position GPU_mini</key>
+	<integer>459</integer>
+	<key>NSStatusItem Restore Position RAM_mini</key>
+	<integer>365</integer>
+	<key>NSStatusItem Restore Position Sensors_mini</key>
+	<integer>412</integer>
+	<key>NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<true/>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>Network_label_position</key>
+	<integer>1</integer>
+	<key>Network_networkChart_position</key>
+	<integer>2</integer>
+	<key>Network_position</key>
+	<integer>5</integer>
+	<key>Network_speed_position</key>
+	<integer>0</integer>
+	<key>Network_state_position</key>
+	<integer>3</integer>
+	<key>Network_text_position</key>
+	<integer>4</integer>
+	<key>Network_widget</key>
+	<string></string>
+	<key>RAM_position</key>
+	<integer>2</integer>
+	<key>RAM_updateInterval</key>
+	<integer>3</integer>
+	<key>RAM_updateTopInterval</key>
+	<integer>3</integer>
+	<key>Remote_position</key>
+	<integer>9</integer>
+	<key>Sensors_barChart_position</key>
+	<integer>3</integer>
+	<key>Sensors_fanValue</key>
+	<string>rpm</string>
+	<key>Sensors_label_position</key>
+	<integer>1</integer>
+	<key>Sensors_mini_position</key>
+	<integer>0</integer>
+	<key>Sensors_position</key>
+	<integer>4</integer>
+	<key>Sensors_sensor</key>
+	<string>Average CPU</string>
+	<key>Sensors_speed</key>
+	<false/>
+	<key>Sensors_stack_position</key>
+	<integer>2</integer>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_unknown</key>
+	<false/>
+	<key>Sensors_updateInterval</key>
+	<integer>2</integer>
+	<key>Sensors_widget</key>
+	<string>mini</string>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>setupProcess</key>
+	<true/>
+	<key>telemetry</key>
+	<false/>
+	<key>temperature_units</key>
+	<string>celsius</string>
+	<key>update-interval</key>
+	<string>Once per month</string>
+	<key>version</key>
+	<string>3.0.26</string>
+</dict>
+</plist>

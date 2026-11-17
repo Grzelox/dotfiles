@@ -39,3 +39,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 # opencode
 export PATH=/Users/grzelo/.opencode/bin:$PATH
+
+# Added by Kiri: its docker and kiri commands (kiri setup --uninstall removes this)
+case ":$PATH:" in *":$HOME/.kiri/bin:"*) ;; *) export PATH="$PATH:$HOME/.kiri/bin" ;; esac

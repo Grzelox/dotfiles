@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSStatusItem VisibleCC Item-0</key>
+	<false/>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>appearanceSize</key>
+	<string>1</string>
+	<key>appearanceStyle</key>
+	<string>0</string>
+	<key>appearanceVisibility</key>
+	<string>0</string>
+	<key>menubarIcon</key>
+	<string>0</string>
+	<key>menubarIconShown</key>
+	<string>false</string>
+	<key>preferencesVersion</key>
+	<string>7.27.0</string>
+	<key>updatePolicy</key>
+	<string>2</string>
+	<key>windowMaxWidthInRow</key>
+	<string>30</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+# Tracked configs: <repo path> | <live path, relative to $HOME>
+# Read by install.sh (repo -> live symlinks) and scripts/sync.sh (live -> repo copy).
+# pi/ is handled by pi/install.sh; Brewfile, vscode/extensions.txt and macos/ by `make sync`.
+
+zsh/.zshrc                          | .zshrc
+zsh/.zprofile                       | .zprofile
+zsh/.zshenv                         | .zshenv
+tmux/.tmux.conf                     | .tmux.conf
+git/.gitconfig                      | .gitconfig
+git/.gitignore_global               | .gitignore_global
+gh/config.yml                       | .config/gh/config.yml
+alacritty/.alacritty.toml           | .alacritty.toml
+ghostty/config                      | .config/ghostty/config
+neovim                              | .config/nvim
+vscode/settings.json                | Library/Application Support/Code/User/settings.json
+btop/btop.conf                      | .config/btop/btop.conf
+herdr/config.toml                   | .config/herdr/config.toml
+opencode/opencode.json              | .config/opencode/opencode.json
+opencode/cli.json                   | .config/opencode/cli.json
+opencode/tui.json                   | .config/opencode/tui.json
+opencode/tui.jsonc                  | .config/opencode/tui.jsonc
+opencode/herdr-tui-session.js       | .config/opencode/herdr-tui-session.js
+opencode/plugins/herdr-agent-state.js | .config/opencode/plugins/herdr-agent-state.js
+opencode/herdr-opencode/tui.js      | .config/opencode/herdr-opencode/tui.js
